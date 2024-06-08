@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConnectionController.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ConnectionController.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Controllers\\ConnectionController.cs",
@@ -75,20 +75,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Controllers\\PedidoController.cs",
               "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\PedidoController.cs",
               "RelativeToolTip": "Clientes.API\\Controllers\\PedidoController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABOAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBoAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T19:52:31.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PedidoRepository.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\PedidoRepository.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Repositories\\PedidoRepository.cs",
@@ -101,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Entities\\Pedido.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Entities\\Pedido.cs",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ItemController.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ItemController.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Controllers\\ItemController.cs",
@@ -127,20 +127,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\ItemRepository.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Repositories\\ItemRepository.cs",
               "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\ItemRepository.cs",
               "RelativeToolTip": "Clientes.API\\Repositories\\ItemRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T16:45:45.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Entities\\Item.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Entities\\Item.cs",
@@ -166,33 +166,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Repositories\\ClienteRepository.cs",
               "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\ClienteRepository.cs",
               "RelativeToolTip": "Clientes.API\\Repositories\\ClienteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T16:30:31.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Clientes.API\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T16:24:25.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Clientes.API\\Repositories\\Repository.cs",
@@ -213,7 +213,8 @@
               "RelativeToolTip": "Clientes.API\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T15:16:35.964Z"
+              "WhenOpened": "2024-06-08T15:16:35.964Z",
+              "EditorCaption": ""
             }
           ]
         }

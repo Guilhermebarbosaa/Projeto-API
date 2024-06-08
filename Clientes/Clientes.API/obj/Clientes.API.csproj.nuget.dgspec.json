@@ -64,6 +64,10 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.6, )"
+            },
+            "W4G.Extensions": {
+              "target": "Package",
+              "version": "[1.0.6, )"
             }
           },
           "imports": [

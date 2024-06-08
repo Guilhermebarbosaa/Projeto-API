@@ -23,7 +23,7 @@ namespace APIClientes.Controllers
 
     
         [HttpPost]
-        public Cliente Post(Cliente cliente) => new ClienteRepository().Inserir(cliente);
+        public dynamic Post(Cliente cliente) => new ClienteRepository().Inserir(cliente);
   /*-
         [HttpPut]
         public Cliente Update(Cliente cliente)

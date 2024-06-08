@@ -38,3 +38,5 @@ C:\Users\gabib\Desktop\Projeto-api\Clientes\Clientes.API\bin\Debug\net8.0\runtim
 C:\Users\gabib\Desktop\Projeto-api\Clientes\Clientes.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
 C:\Users\gabib\Desktop\Projeto-api\Clientes\Clientes.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\gabib\Desktop\Projeto-api\Clientes\Clientes.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gabib\Desktop\Projeto-api\Clientes\Clientes.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gabib\Desktop\Projeto-api\Clientes\Clientes.API\bin\Debug\net8.0\W4G.Extensions.dll
