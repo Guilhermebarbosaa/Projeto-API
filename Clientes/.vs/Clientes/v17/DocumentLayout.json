@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\controllers\\connectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\controllers\\connectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|c:\\users\\gabib\\desktop\\projeto-api\\clientes\\clientes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8924904-BE49-4046-AF51-EE3752D6A38B}|Clientes.API\\Clientes.API.csproj|solutionrelative:clientes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionController.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ConnectionController.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Controllers\\ConnectionController.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ConnectionController.cs",
+              "RelativeToolTip": "Clientes.API\\Controllers\\ConnectionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:13:36.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Clientes.API\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:52:31.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "Clientes.API\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:44:30.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Entities\\Pedido.cs",
+              "RelativeToolTip": "Clientes.API\\Entities\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:44:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Clientes.API\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:45:57.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "Clientes.API\\Repositories\\ItemRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:45:45.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Entities\\Item.cs",
+              "RelativeToolTip": "Clientes.API\\Entities\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:45:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Clientes.API\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:30:52.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Clientes.API\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:30:31.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Clientes.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:24:25.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Clientes.API\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:14:26.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Program.cs",
+              "RelativeDocumentMoniker": "Clientes.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gabib\\Desktop\\Projeto-api\\Clientes\\Clientes.API\\Program.cs",
+              "RelativeToolTip": "Clientes.API\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:16:35.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
